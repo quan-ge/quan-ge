@@ -1,4 +1,4 @@
-document.write('<script src="./tipsjs.js"></script>')
+document.write('<script src="https://quan-ge.github.io/quan-ge/js/tipsjs.js"></script>')
 
 var main = `温馨提示 \n\n
 网址目前有较多BUG，暂未解决
