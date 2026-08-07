@@ -1,6 +1,4 @@
-document.write('<script src="https://quan-ge.github.io/quan-ge/js/tipsjs.js"></script>')
-
-var main = `温馨提示 \n\n
+var main = `
 网址目前有较多BUG，暂未解决
 并且兼容性可能一般
 仅应急使用！
@@ -12,16 +10,20 @@ var main = `温馨提示 \n\n
 <a href="http://nas.120322.xyz/">http://nas.120322.xyz//</a>
 `
 
-swal(main, 'success'); function AddFavorite(title, url) {
+swal({
+  title: "温馨提示",
+  text: main,
+  icon: "success",
+}); function AddFavorite(title, url) {
   try {
-      window.external.addFavorite(url, title);
+    window.external.addFavorite(url, title);
   }
-catch (e) {
-     try {
-       window.sidebar.addPanel(title, url,);
+  catch (e) {
+    try {
+      window.sidebar.addPanel(title, url,);
     }
-     catch (e) {
-         alert(`温馨提示 \n\n
+    catch (e) {
+      alert(`温馨提示 \n\n
 网址目前有较多BUG，暂未解决
 并且兼容性可能一般
 仅应急使用！
@@ -31,6 +33,6 @@ catch (e) {
 -------
 公共导航页：
 <a href="http://nas.120322.xyz/">http://nas.120322.xyz//</a>`);
-     }
+    }
   }
 }
