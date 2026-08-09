@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8" />
     <title>INFO</title>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="./info.js"></script>
+
 </head>
+
 <body>
-    
+
+    <script>
+
+        Swal.fire({
+            title: "站点说明",
+            html: `
+            <p>⚠️ 镜像站目前有较多BUG，暂未解决<br>
+            并且兼容性可能一般，仅应急使用！</p>
+            <hr>
+            <p>📁 文件下载或拉库请用专用服务：<br>
+            <a href="https://fgp.120322.dpdns.org" target="_blank" 
+               style="color: #3085d6; text-decoration: underline;">
+                https://fgp.120322.dpdns.org/
+            </a></p>
+            <hr>
+            <p>🧭 公共导航页：<br>
+            <a href="http://nas.120322.xyz/" target="_blank"
+               style="color: #3085d6; text-decoration: underline;">
+                http://nas.120322.xyz/
+            </a></p>
+
+        `,
+            confirmButtonText: "前往镜像站点",
+            confirmButtonColor: '#4CAF50',
+            icon: "info",
+
+        })
+            .then((value) => {
+                window.open('https://gp.120322.dpdns.org/', '_self');
+            });
+    </script>
 </body>
+
 </html>
