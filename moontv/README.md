@@ -35,7 +35,7 @@ https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt
 
 
 
-# 不支持订阅时的使用订阅方法（旧版或其他衍生项目）
+# 不支持订阅时可手动导入配置（旧版或其他衍生项目）
 
  - 访问订阅的URL，将订阅复制下来
 
