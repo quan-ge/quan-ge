@@ -32,8 +32,9 @@ URL：
 https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt
 ```
 
+---
 
-
+# 温馨提示：几乎所有版本都不会同步配置文件中删除的源，请在管理员设置中手动删除
 
 # 不支持订阅时可手动导入配置（旧版或其他衍生项目）
 
