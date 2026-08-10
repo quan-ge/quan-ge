@@ -18,7 +18,7 @@ URL：[https://quan-ge.github.io/quan-ge/moontv/moontv_sub_r18.txt](https://quan
 
 URL：[https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt](https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt)
 
-完整版，不过滤任何内容，**使用时会因为源过得导致速度变慢，部分部署方式会导致应用部署失败**
+完整版，不过滤任何内容，源失效了也不会立马删除**使用时会因为源过得导致速度变慢，部分部署方式会导致应用部署失败**
 
 
 # 不支持订阅时的使用订阅方法（旧版或其他衍生项目）
