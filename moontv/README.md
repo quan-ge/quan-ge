@@ -4,7 +4,7 @@
 
 #### 持续更新中，上次更新日期更新：26.8.11
 
-[> > 前往GitHub查看](https://github.com/quan-ge/quan-ge/blob/main/moontv/README.md)
+[> > 前往GitHub查看](https://github.com/quan-ge/quan-ge/tree/main/moontv)
 
 [> > 前往网页查看](https://quan-ge.github.io/quan-ge/moontv/)
 
