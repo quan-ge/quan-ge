@@ -20,7 +20,7 @@ R18版：`https://quan-ge.github.io/quan-ge/moontv/moontv_sub_r18.txt`
 
 ---
 
-[> > > 查看订阅详情文档](https://quan-ge.github.io/quan-ge/moontv/)
+[> > > 查看订阅详情文档](./doc/a.md)
 
 ---
 
