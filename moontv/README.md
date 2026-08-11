@@ -2,6 +2,10 @@
 
 #### 支持 MoonTV / LunaTV / Helios 以及其他衍生项目
 
+#### 持续更新中，上次更新日期更新：26.8.11
+
+---
+
 ## 订阅链接
 
 通用订阅（推荐使用）:`https://quan-ge.github.io/quan-ge/moontv/moontv_sub.txt`
