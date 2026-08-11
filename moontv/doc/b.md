@@ -10,8 +10,9 @@
 | [MoonTV](https://github.com/senshinya/MoonTV)                   | ❌              | 是          | ✅兼容    |
 | [KatelyaTV](https://github.com/katelya77/KatelyaTV)             | ❌              | 是          | ⭕待测试  |
 | [DecoTV](https://github.com/Decohererk/DecoTV)                  | ✅              | -           | ✅可用    |
-| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)              | ❌              | 是          | ⭕待测试  |
+| [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)              | ✅              | 是          | ⭕待测试  |
 | [EdgeOne-MoonTV](https://github.com/zhumengkang/edgeone-moontv) | ❌              | 是          | ✅兼容    |
+
 
 待测试：理论上支持，欢迎提交测试结果
 
