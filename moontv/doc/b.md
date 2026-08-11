@@ -19,6 +19,7 @@
 | [DanmuTV](https://github.com/hsq1820/DanmuTV)                   | ❌不支持自定义配置 |
 | [MoonTV-APP](https://github.com/moli-xia/MoonTV-app)            | ❌不支持自定义配置 |
 
+---
 
 待测试：理论上支持，欢迎提交测试结果
 
