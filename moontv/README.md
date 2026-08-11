@@ -10,11 +10,21 @@
 
 ## 订阅链接
 
-通用订阅（推荐使用）:`https://quan-ge.github.io/quan-ge/moontv/moontv_sub.txt`
+通用订阅（推荐使用）:
+```
+https://quan-ge.github.io/quan-ge/moontv/moontv_sub.txt
+```
 
-R18版：`https://quan-ge.github.io/quan-ge/moontv/moontv_sub_r18.txt`
+R18版：
+```
+https://quan-ge.github.io/quan-ge/moontv/moontv_sub_r18.txt
+```
 
-完整版：`https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt`
+完整版：
+```
+https://quan-ge.github.io/quan-ge/moontv/moontv_sub_all.txt
+```
+
 
 **使用完整版时，可能会因为源过多，导致速度变慢，部分部署方式会导致应用部署失败**
 
