@@ -18,47 +18,20 @@ R18版：`https://quan-ge.github.io/quan-ge/moontv/moontv_sub_r18.txt`
 
 **使用完整版时，可能会因为源过多，导致速度变慢，部分部署方式会导致应用部署失败**
 
-#### 三个版本的区别
+---
 
-| 版本   | R18源 | 影视源 | 源数量 |
-| ------ | ----- | ------ | ------ |
-| 通用版 | ❌     | ✅      | 36     |
-| R18版  | ✅     | 小部分 | 28     |
-| 完整版 | ✅     | ✅      | 59     |
-
-✅：包含
-
-❌：不包含
-
-小部分：为了保证性能，只包含一部分
+[> > > 查看订阅详情文档](https://quan-ge.github.io/quan-ge/moontv/)
 
 ---
 
-#### 几乎所有版本都不会同步订阅中被删除的源，请在`管理员设置`中手动删除
+订阅源支持EchoTV 、MoonTV 、 LunaTV 等
+
+[> > > 查看各版本支持情况](./doc/b.md)
 
 ---
 
-#### 不支持订阅时可手动导入配置方法
+聊天频道
 
- - 访问订阅的URL，将订阅复制下来，如：`https://quan-ge.github.io/quan-ge/moontv/moontv_sub.txt`
- - 前往[https://www.udtool.com/toolbox/base58-encoder-decoder.html?charsetInput=12](https://www.udtool.com/toolbox/base58-encoder-decoder.html?charsetInput=12)
- - 点击`点击解码`，进行Base58解码，将订阅转为配置文件
- - 手动导入配置文件
+[本订阅TG聊天群(不过目前没什么人)](https://t.me/+O2Jk9Q_3GUVhYjBl)
 
----
-
-### 对各软件的兼容情况
-
-| 软件名                                               | 可直接导入订阅 | **需手动配置 | 测试结果 |
-| ---------------------------------------------------- | -------------- | ---------- | -------- |
-| [LunaTV](https://github.com/MoonTechLab/LunaTV)      | ✅              | -          | ✅可用    |
-| *[Helios](https://github.com/MoonTechLab/Selene)     | ✅              | -          | -        |
-| [EchoTV](https://github.com/hoowhoami/EchoTV)        | ✅              | -          | ✅兼容    |
-| [MoonTV](https://github.com/senshinya/MoonTV)        | ❌              | 是          | ✅兼容    |
-| *[KatelyaTV](https://github.com/katelya77/KatelyaTV) | ❌              | 是          | ✅可用    |
-| [DecoTV](https://github.com/Decohererk/DecoTV)       | ✅              | -          | -        |
-| *[MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)  | ❌              | 是          | -        |
-
-*待测试，理论支持，欢迎提交测试结果
-
-**参照上方的[第六部分(不支持……)](#不支持订阅时可手动导入配置方法旧版或其他衍生项目)，手动导入配置文件
+[LunaTV官方TG讨论群](https://t.me/+B0axje_mYLE5Njc0)
