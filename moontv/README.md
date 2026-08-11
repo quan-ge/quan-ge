@@ -13,8 +13,7 @@ https://quan-ge.github.io/quan-ge/moontv/moontv_sub.txt
 
 ## R18版本
 
-不过滤成人内容
-
+仅成人内容
 
 URL：
 ```
