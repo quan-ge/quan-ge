@@ -11,3 +11,7 @@
 [凌霞软件](https://xn--gzu746b2hv.quange.qzz.io/cPz7j5)
 
 [DigitalPlat - 可接入CF的永久免费域名 - 使用邀请码享优惠](https://xn--gzu746b2hv.quange.qzz.io/ze3cvX)
+
+<a href="https://afdian.com/a/QUAN_GE" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+      <img src="https://img.shields.io/badge/💵_爱发电-FF4D4D?style=flat-square&logo=usd&logoColor=white" alt="爱发电" style="max-height: 50px;">
+    </a>
